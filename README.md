@@ -15,5 +15,5 @@ Here are some of my custom-built tools:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Ameer Recon Tool](https://github.com/iamameerhamza/ameer-recon-tool) | Automated reconnaissance script to identify open ports, technologies, and potential vulnerabilities in web targets. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4F5D95?logo=linux&logoColor=white) |
-| [Custom Payload Generator][(https://github.com/iamameerhamza/Custom-PayloadGenerator)]| A flexible tool to generate encoded or obfuscated payloads for penetration testing and evasion practice. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blueviolet) |
+| [Custom Payload Generator](https://github.com/iamameerhamza/Custom-PayloadGenerator)| A flexible tool to generate encoded or obfuscated payloads for penetration testing and evasion practice. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blueviolet) |
 
