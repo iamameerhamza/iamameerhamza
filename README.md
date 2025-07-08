@@ -10,12 +10,10 @@ As I grow, my goal is to contribute to organizations by combining my **technical
 
 ## 🗂️ Portfolio
 
-Here are some of my projects:
+Here are some of my custom-built tools:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Network Traffic Analyzer](https://github.com/your-username/network-traffic-analyzer) | Tool for analyzing and visualizing network packets to identify suspicious activity. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) |
-| [Incident Response Scripts](https://github.com/your-username/incident-response-scripts) | Collection of scripts to automate incident response workflows. | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [Personal Cybersecurity Blog](https://yourblog.com) | Sharing insights, tutorials, and resources on cybersecurity topics. | ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) |
+| [Ameer Recon Tool](https://github.com/your-username/ameer-recon-tool) | Automated reconnaissance script to identify open ports, technologies, and potential vulnerabilities in web targets. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4F5D95?logo=linux&logoColor=white) |
+| [Custom Payload Generator](https://github.com/your-username/custom-payload-generator) | A flexible tool to generate encoded or obfuscated payloads for penetration testing and evasion practice. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blueviolet) |
 
-<!-- Add screenshots if you like! -->
